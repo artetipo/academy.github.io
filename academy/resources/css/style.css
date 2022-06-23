@@ -1,0 +1,39 @@
+body{
+    background-color: darkgrey;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+header{
+    background-color: white;
+    height: 64px;
+}
+
+h1{
+    color: black;
+    font-size: large;
+    font-weight: 800;
+}
+
+p{
+    color: rgb(81, 81, 81);
+}
+
+.imgbanner{
+    margin: 32, 24;
+}
+
+.logo{
+
+}
+
+.banner{
+
+}
+
+.bottom{
+    background-color: darkslategrey;
+    padding-top: 8px;
+    padding-bottom: 8px;
+
+}
+
